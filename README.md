@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sanjaykannan05/Sanjaykannan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjaykannan05.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
